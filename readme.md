@@ -159,7 +159,7 @@ Command:
 5r<Enter>
 does NOT insert 5 newlines.
 Instead:
-Vim replaces the 5 characters using ONE newline character.
+ Vim replaces the 5 characters using ONE newline character.
 
 
 | Command | Meaning                                       |
@@ -174,3 +174,8 @@ Vim replaces the 5 characters using ONE newline character.
 
 ## Keyborad Macros
 Comming soon ...
+
+
+
+
+
